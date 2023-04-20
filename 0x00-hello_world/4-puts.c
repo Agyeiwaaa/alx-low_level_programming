@@ -1,5 +1,5 @@
 #include <stdio.h>
-/* main - A C Programming to print a message programming is like building a multilingual puzzle */
+/* main - A C Programming to print a message with put function */
 /* Return: always 0 (success) */
 int main(void)
 {
