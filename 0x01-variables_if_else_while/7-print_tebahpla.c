@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <tdio.h>
 /**
 *main - Entry point
 *Description: C program that prints lowercase in reverse
@@ -6,11 +6,11 @@
 */
 int main(void)
 {
-int x = 85;
+char ch;
 
-for (x = 85; x >= 65; x--)
+for (ch = 'x'; ch >= 'a'; ch--)
 {
-putchar(x);
+putchar(ch);
 }
 putchar('\n');
 return (0);
