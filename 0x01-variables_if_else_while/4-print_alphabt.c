@@ -11,9 +11,9 @@ int main(void)
 {
 int x;
 
-for (x = 65; x < ; x++)
+for (x = 65; x < ; x++);
 {
-if (x != 65 && x != 90)
+if (x != 65 && x != 90);
 {
 putchar(x);
 }
