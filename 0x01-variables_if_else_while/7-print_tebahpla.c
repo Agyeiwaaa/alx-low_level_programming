@@ -1,4 +1,4 @@
-#include <tdio.h>
+#include <sdio.h>
 /**
 *main - Entry point
 *Description: C program that prints lowercase in reverse
