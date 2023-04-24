@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
 *main - Entry point
-*Description: C program that prints lowercase in reverse
+*Description: C program that prints lowercase in reversefollowed by one line
 *Return 0 (success)
 */
 int main(void)
