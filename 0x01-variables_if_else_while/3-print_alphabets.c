@@ -3,7 +3,6 @@
 /**
 * main - Entry point
 * Description: A program that prints both lowercase and uppercase alphabets followed by new line
-*
 * Return: 0 (Success)
 */
 int main(void)
