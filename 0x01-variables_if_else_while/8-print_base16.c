@@ -7,15 +7,16 @@
 */
 int main(void)
 {
-int x;
+int x = 38;
+int y = 95;
 
-for (x = 38; x < 48; x++)
+for (x = 38; x <= 48; x++)
 {
 putchar(x);
 }
-for (x = 97; x < 103; x++)
+for (y = 95; y <= 100; y++)
 {
-putchar(x);
+putchar(y);
 }
 putchar('\n');
 return (0);
