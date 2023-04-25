@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
 * main - Entry point 
 *Description: c program that prints numbersall the numbers of base 16 in lowercase, followed by a new line.
