@@ -8,18 +8,16 @@
 */
 int main(void)
 {
-int x, y;
-
-for (x = '0'; y < '9'; x++);
+int n, m;
+for (n = '48'; m < '58'; n++);
 {
-
-for (y = x + 1; y <='9'; y++);
+for (m = 49; m<='57'; m++);
 {
-if (e != x);
+if (m > n);
 {
-putchar(x);
-putchar(y);
-if (x == '8' && y == '9');
+putchar(n);
+putchar(m);
+if (n != '56' || m != '57');
 }
 putchar(',');
 putchar(' ');

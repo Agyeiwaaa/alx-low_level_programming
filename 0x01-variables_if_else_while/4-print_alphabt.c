@@ -9,13 +9,12 @@
 */
 int main(void)
 {
-int x;
-
-for (x = 65; x < = x++);
+int i;
+for (i = 97; i < 123; i++);
 }
-if (x != 65 && x != 90);
+if (i != 101 && i!= 113);
 {
-putchar(x);
+putchar(i);
 }
 putchar('\n');
 return (0);
